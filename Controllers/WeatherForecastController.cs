@@ -35,5 +35,12 @@ namespace WebApplication1.Controllers
             })
             .ToArray();
         }
+
+        [HttpPatch]
+
+        public IEnumerable<WeatherForecast> Patch()
+        {
+            return null;
+        }
     }
 }
