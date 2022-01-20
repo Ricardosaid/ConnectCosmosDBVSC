@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\bSideWork\\Prueba\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\bSideLearn\\CosmosDBVSC\\ConnectCosmosDBVSC\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\bSideWork\\Prueba\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\bSideLearn\\CosmosDBVSC\\ConnectCosmosDBVSC\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\bSideWork\\Prueba\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\bSideLearn\\CosmosDBVSC\\ConnectCosmosDBVSC\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\bSideWork\\Prueba\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "D:\\bSideLearn\\CosmosDBVSC\\ConnectCosmosDBVSC\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\bSideWork\\Prueba\\WebApplication1\\obj\\",
+        "outputPath": "D:\\bSideLearn\\CosmosDBVSC\\ConnectCosmosDBVSC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

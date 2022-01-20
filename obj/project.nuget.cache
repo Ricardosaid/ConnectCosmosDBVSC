@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IVkHuvPh3zu5EzL8L4wPysEeH/nasJ6noveZaBhL6Xhq2dS+tYcwjYkxbUpyKDKkKBy9jffNPheLunfkFSIGuw==",
+  "dgSpecHash": "YvGvcfLmrRDoVu0+4prz7zDmkNANNR9rmXhnT9l5PAuLdJ6ObRiq1960Q5T5uuq0WeoGWCgyHGX2I/Z/ZRrlJA==",
   "success": true,
-  "projectFilePath": "D:\\bSideWork\\Prueba\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "D:\\bSideLearn\\CosmosDBVSC\\ConnectCosmosDBVSC\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
